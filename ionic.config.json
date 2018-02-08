@@ -1,0 +1,8 @@
+{
+  "name": "studentsearch",
+  "app_id": "5d0c7c2b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
